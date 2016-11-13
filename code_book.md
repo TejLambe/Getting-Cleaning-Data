@@ -1,4 +1,5 @@
  
+ Code Book
  This document gives description about all variables corresponds to tidy_data.txt
  
  activity

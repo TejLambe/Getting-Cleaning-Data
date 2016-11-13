@@ -1,8 +1,7 @@
+
 # Download and unzip the dataset
 #Dataset should be downloaded from "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 #Dataset will be downloaded in the current working directory.
-# library(plyr)
-#library(rshape2)
 
 data_file <- "dataset.zip"
 

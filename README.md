@@ -1,5 +1,6 @@
 # Getting-Cleaning-Data
-This repo contains a course project for Getting and Cleaning data.
+
+This repo contains a course 3 project for Getting and Cleaning data.
 
 # run_analysis.R conains the script which creates a tidy data set.
   Dataset should be downloaded from "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip" <br />
