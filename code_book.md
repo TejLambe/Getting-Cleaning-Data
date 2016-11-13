@@ -1,8 +1,8 @@
  
- Code Book
- This document gives description about all variables corresponds to tidy_data.txt
+ Code Book <br />
+ This document gives description about all variables corresponds to tidy_data.txt <br />
  
- activity
+ activity <br />
 			This variable represents activity. It corresponds to activity_label.txt file.
  subject 
 			This variable corresponds to subject from subjet_test.txt and subject_train files.
